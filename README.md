@@ -6,8 +6,7 @@
 
 ## INSTALAÇÃO VPS ##
 
-git clone https://github.com/EdsonVDN/teste_decode.git whatickesaas
-
+ sudo apt install -y git && git clone https://github.com/EdsonVDN/teste_decode.git install_whaticke && sudo chmod -R 777 install_whaticke && cd install_whaticke  && sudo ./install_whatickesaas
 
 
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS ##
