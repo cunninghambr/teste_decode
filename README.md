@@ -6,7 +6,7 @@
 
 ## INSTALAÇÃO VPS ##
 
- sudo apt install -y git && git clone https://github.com/EdsonVDN/teste_decode.git install_whaticket && sudo chmod -R 777 install_whaticket && cd install_whaticket  && sudo ./install_whaticketsaas
+ sudo apt install -y git && git clone https://github.com/EdsonVDN/teste_decode.git install_whaticket && sudo chmod -R 777 install_whaticket && cd install_whaticket  && sudo ./whaticketsaas
 
 
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS ##
