@@ -4,6 +4,11 @@
 -VM COM MINIMO: 2CPU 4GB RAM
 -VM COM RECOMENDADO: 4CPU 6GB RAM
 
+## INSTALAÇÃO VPS ##
+
+git clone https://github.com/EdsonVDN/teste_decode.git whatickesaas
+
+
 
 ## CRIAR SUBDOMINIO E APONTAR PARA O IP DA SUA VPS ##
 
