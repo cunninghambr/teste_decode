@@ -29,7 +29,7 @@ EOF
 #######################################
 system_mv_folder() {
   print_banner
-  printf "${WHITE} 💻 Fazendo download do código Whaticket...${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Preparando código Whaticket...${GRAY_LIGHT}"
   printf "\n\n"
 
 
